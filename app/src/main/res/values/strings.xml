@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Floating labels</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_error_message">Enter valid email</string>
+    <string name="password_error_message">Password length must be 8</string>
+</resources>
